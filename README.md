@@ -12,7 +12,11 @@
 
 ## My Stats:
 <p align="left">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=BarbaraSimioni&show_icons=true&theme=transparent" />
-  <img width="313" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSimioni&layout=compact&theme=dark" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=BarbaraSimioni&show_icons=true&theme=transparent" alt="Dados do Perfil"/>
+  <img width="313" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSimioni&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
+## My Pac-Man:
+<p align="center">
+  <img src="https://github.com/BarbaraSimioni/BarbaraSimioni/raw/output/github-contribution-grid-snake.svg" alt="Pac-Man comendo commits" />
+</p>
