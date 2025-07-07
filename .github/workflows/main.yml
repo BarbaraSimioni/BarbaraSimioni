@@ -35,7 +35,6 @@ jobs:
           grid_rows: 7
           cell_size: 12
           color_snake: '#F7C324'
-          color_dots: '#444444,#444444,#444444,#444444,#444444
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
