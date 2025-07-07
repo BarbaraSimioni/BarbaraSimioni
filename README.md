@@ -18,5 +18,5 @@
 
 ## My Pac-Man:
 <p align="center">
-  <img src="https://github.com/BarbaraSimioni/BarbaraSimioni/raw/output/github-contribution-grid-snake.svg" alt="Pac-Man comendo commits" />
+  <img src="https://raw.githubusercontent.com/BarbaraSimioni/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
