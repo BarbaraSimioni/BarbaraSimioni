@@ -1,11 +1,10 @@
-## About Me:
+## Sobre mim:
 
-- 🎓 I’m a student at Biopark Educação.
-- 📚 Currently pursuing a degree in Systems Analysis and Development.
-- 🌱 Passionate about turning ideas into code and always striving for both technical and personal growth.
+- 🎓 Sou uma estudante da Faculdade Donaduzzi.
+- 📚 Graduanda do 3° período de Análise e Desenvolvimento de Sistemas.
+- 🌱 Apaixona em tornar ideias em códigos, sempre buscando por crescimento técnico e pessoal.
 
-## My Stats:
+## Minhas Skills:
 <p align="left">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=BarbaraSimioni&show_icons=true&theme=transparent" alt="Dados do Perfil"/>
   <img width="313" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSimioni&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
